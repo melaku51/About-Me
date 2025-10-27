@@ -1,4 +1,4 @@
-<h1>Hi, I'm Melaku! <br/><a href="https://github.com/melaku51">Programmer</a>, <a href="https://www.linkedin.com/in/melaku-abriham/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@mela-if/">YouTuber</a></h1>
+<h1>Hi, I'm Melaku! <br/><a href="https://github.com/melaku51">Programmer</a>, <a href="https://www.linkedin.com/in/melaku-abriham-7a7503160/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@mela-if/">YouTuber</a></h1>
 
 <h2>👨‍💻 cyber security projects:</h2>
 
