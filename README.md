@@ -6,7 +6,7 @@
   - [Praciting Graph machine learning in Python](https://github.com/melaku51/IoT_botnet_DDoS_attack_detection_using_GraphSAGE)
   - [Praciting DS & Algos in Python](https://github.com/melaku51/Algorithms-Practice)
 - <b>Full Stack Web App (fastapi, React, NodeJS, and Azure)</b>
-  - [Image Analysis Middleware](https://github.com/melaku51/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [sis](https://github.com/melaku51/college-managment-system) <b><i>(fastapi+react+postgress)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/melaku51/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/melaku51/Jwipe.PowerShell)
