@@ -3,7 +3,7 @@
 <h2>👨‍💻 projects:</h2>
 
 - <b>Data Structures, Algorithms Practice and Machine Learning Components(AlgoExpert)</b>
-  - [Praciting Graph machine learning in Python](https://github.com/melaku51/Algorithms-Practice)
+  - [Praciting Graph machine learning in Python](https://github.com/melaku51/IoT_botnet_DDoS_attack_detection_using_GraphSAGE)
   - [Praciting DS & Algos in Python](https://github.com/melaku51/Algorithms-Practice)
 - <b>Full Stack Web App (fastapi, React, NodeJS, and Azure)</b>
   - [Image Analysis Middleware](https://github.com/melaku51/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
