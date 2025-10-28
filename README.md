@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Data Structures, Algorithms Practice and Machine Learning Components(AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/melaku51/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Full Stack Web App (fastapi, React, NodeJS, and Azure)</b>
   - [Image Analysis Middleware](https://github.com/melaku51/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/melaku51/Sentinel-Lab)
